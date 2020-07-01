@@ -9,7 +9,8 @@ library(reshape2)
 library(data.table)  
 library(plotly)
 
-census_api_key("e442a94c752f909f2c3de0089081e96a4da59eb8")
+# If you don't have a Census API key, go to : https://api.census.gov/data/key_signup.html
+census_api_key("<INSERT your CENSUS API KEY HERE>")
 
 fa_up <- read_csv('food_access.csv')
 
