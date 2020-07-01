@@ -10,7 +10,7 @@ In conjunction with Professor Valerie Nazzaro's Data Visualization course, I dev
 
 ### Dashboard Components: 
 
-### Selections: 
+#### Selections: 
 Users can select a state, degree of sensitivity (distance from the nearest food store), and a Census geographic identifier  to customize the plots to respective interests. They also have the option to receive tract recommendations based off of their income so they can easily identify tracts within their budget. 
 
 #### Demographic Plots: 
