@@ -2,7 +2,7 @@
 
 ### Project Overview: 
 
-In conjunction with Professor Valerie Nazzaro's Data Visualization course, I developed an interactive dashboard to visually explore food access within the US. This project utilizes the USDA's Food Access Research Atlas and geometries from the Census Bureau to explore the linkages between access to food stores, race, and income. Because food access typically occurs at the neighborhood level, all visualizations are displayed in terms of census tracts. This application is publicly available [publically available](https://azagoren.shinyapps.io/food_access) in the hopes that low to middle income individuals may use it as a tool to consider when making housing decisions. 
+In conjunction with Professor Valerie Nazzaro's Data Visualization course, I developed an interactive dashboard to visually explore food access within the US. This project utilizes the USDA's Food Access Research Atlas and geometries from the Census Bureau to explore the linkages between access to food stores, race, and income. Because food access typically occurs at the neighborhood level, all visualizations are displayed in terms of census tracts. This application is [publically available](https://azagoren.shinyapps.io/food_access) in the hopes that low to middle income individuals may use it as a tool to consider when making housing decisions. 
 
 
 ![](fa.gif)
@@ -13,11 +13,11 @@ In conjunction with Professor Valerie Nazzaro's Data Visualization course, I dev
 *Selections*: 
 Users can select a state, degree of sensitivity (distance from the nearest food store), and a Census geographic identifier  to customize the plots to respective interests. They also have the option to receive tract recommendations based off of their income so they can easily identify tracts within their budget. 
 
-##### Demographic Plots: 
+#### Demographic Plots: 
 
 In order to provide users with some background on the census tracts, I have included bar, pie and box plots detailing demographics and how food store access is distributed across the Tract. These graphs were included in an attempt to improve this application's accessibility, which has been constructed to be accessible across varying levels of data literacy. 
 
-##### Sensitivity Plots: 
+#### Sensitivity Plots: 
 
 Our data allows for two distance measures of food access: 
 
