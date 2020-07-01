@@ -1,4 +1,4 @@
-# Food-Access-Visualization-Project
+# Food Access Visualization Project
 
 ### Project Overview: 
 
